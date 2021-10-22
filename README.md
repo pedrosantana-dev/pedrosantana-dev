@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div>
+  <a href="https://github.com/pedrosantana-dev">
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev" >
+    <img height=180em src="https://github.com/anuraghazra/github-readme-stats">
+</div>
 -->
