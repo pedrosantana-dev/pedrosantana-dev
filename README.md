@@ -1,4 +1,4 @@
-### Olá!👋 Eu sou o Pedro Santana 
+### Oi!👋 Eu sou o Pedro 
 
 **Estou a procura do meu primeiro emprego como programador**, _você pode me ajudar?_ 📌.
 
