@@ -39,7 +39,17 @@ Eu mando muito bem no **front-end** e também no **back-end**, algumas das minha
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/pedrosantana-fullstack/" target="_blank">
-    <img align="center" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank" />
+  <a href="https://www.linkedin.com/in/pedrosantana-fullstack/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://app.slack.com/client/T01L2V2HQMR/C02CUC8NCJX/user_profile/U02CE809Z0F">
+    <img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCPJZ9kJHXhmBQS0NlDwewWQ">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pedromanu27/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+![Snake animation](https://github.com/pedrosantana-dev/pedrosantana-dev/blob/output/github-contribution-grid-snake.svc)
