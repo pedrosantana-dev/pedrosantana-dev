@@ -15,7 +15,7 @@ Eu mando muito bem no **front-end** e também no **back-end**, algumas das minha
 - MySQL
 - MongoDB
 
-**E como o aprendizado não para**, estou cursando __Full Stack Node e React__ na _Digital House_ a maiores comunidade de programadores da América Latina
+**E como o aprendizado não para**, estou cursando __Full Stack Node e React__ na _Digital House_ a maior comunidade de programadores da América Latina
 
 
 <div>
