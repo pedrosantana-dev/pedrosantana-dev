@@ -1,23 +1,25 @@
-### Hi there 👋
+### Olá!👋 Eu sou o Pedro Santana 
 
-<!--
-**pedrosantana-dev/pedrosantana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estou a procura do meu primeiro emprego como programador**, _você pode me ajudar?_ 📌.
 
-Here are some ideas to get you started:
+Eu mando muito bem no **front-end** e também no **back-end**, algumas das minhas skills são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Node
+  -  Express
+  -  NestJS
+- Angular
+- MySQL
+- MongoDB
+
+**E como o aprendizado não para**, estou cursando __Full Stack Node e React__ pela _Digital House_ a maiores comunidade de programadores da América Latina
 
 
 <div>
-  <a href="https://github.com/pedrosantana-dev">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev" >
-    <img height=180em src="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://pedrosantana-dev.github.io/">
+   <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&show_icons=true&theme=radical" >
+   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight" >
 </div>
--->
