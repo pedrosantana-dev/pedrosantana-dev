@@ -39,7 +39,7 @@ Eu mando muito bem no **front-end** e também no **back-end**, algumas das minha
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/pedrosantana-fullstack/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrosantana-fullstack/" target="blank">
     <img align="center" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
