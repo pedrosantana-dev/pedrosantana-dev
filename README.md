@@ -1,6 +1,6 @@
 ### Oi!👋 Eu sou o Pedro 
 
-**Estou a procura do meu primeiro emprego como programador**, _você pode me ajudar?_ 📌.
+**Estou a procura de emprego como programador**, _você pode me ajudar?_ 📌.
 
 Eu mando muito bem no **front-end** e também no **back-end**, algumas das minhas skills são:
 
