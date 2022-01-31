@@ -1,6 +1,6 @@
 ### Oi!👋 Eu sou o Pedro 
 
-**Estou a procura de emprego como programador**, _você pode me ajudar?_ 📌.
+**Eu sou um Desenvolvedor Full Stack**, _conheço muitas tecnologias_ 📌.
 
 Eu mando muito bem no **front-end** e também no **back-end**, algumas das minhas skills são:
 
