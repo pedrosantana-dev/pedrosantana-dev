@@ -7,15 +7,25 @@ Eu mando muito bem no **front-end** e também no **back-end**, algumas das minha
 - HTML5
 - CSS3
 - JavaScript
-- TypeScript
 - Node
   -  Express
-  -  NestJS
+  -  Sequelize
+  - AdonisJS
+- TypeScript
+  -  NestJS  
+  -  TypeORM
+  
+ **No front-end:**
 - Angular
+- VueJS
+- React e React-Native (aprendendo)
+
+**Banco de dados:**
+- PostgreSQL
 - MySQL
 - MongoDB
 
-**E como o aprendizado não para**, estou cursando __Full Stack Node e React__ na _Digital House_ a maior comunidade de programadores da América Latina
+**E pra mim o aprendizado não para**, concluí o curso de __Full Stack Node e React__ na _Digital House_ a maior comunidade de programadores da América Latina, mas continuo buscando o conhecimento em novas tecnologias.
 
 
 <div>
