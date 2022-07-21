@@ -30,8 +30,8 @@ Eu mando muito bem no **front-end** e também no **back-end**, algumas das minha
 
 <div>
   <a href="https://pedrosantana-dev.github.io/">
-  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&show_icons=true&theme=radical" >
-  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight" >
+  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >
+  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >
 </div>
   
 <div>
