@@ -31,7 +31,18 @@ Além disso, como um desenvolvedor consolidado, aprimorei minhas habilidades em:
 - Princípios SOLID
 - Design patterns
 - Messageria com RabbitMQ
-- E muito mais
+
+**Outras competências:**
+- Docker
+- CI/CD com Jenkins
+- Serviços da AWS, incluindo:
+  - Amazon EC2
+  - Amazon ECR (Elastic Container Registry)
+  - Amazon ECS (Elastic Container Service)
+  - Amazon S3
+  - AWS Lambda
+  - AWS Secrets Manager
+  - E muito mais
 
 Completei o curso de Full Stack Node e React na Digital House, a maior comunidade de programadores da América Latina. No entanto, meu compromisso com o aprendizado contínuo continua firme, e estou sempre buscando conhecimento em novas tecnologias e aprimorando minhas habilidades.
 
