@@ -1,32 +1,43 @@
-### Oi!👋 Eu sou o Pedro 
+### Olá! 👋 Eu sou o Pedro
 
-**Eu sou um Desenvolvedor Full Stack**, _conheço muitas tecnologias_ 📌.
+Sou um desenvolvedor full stack com ampla experiência em diversas tecnologias. Ao longo do tempo, adquiri habilidades avançadas em várias áreas da programação. Algumas das minhas competências incluem:
 
-Eu mando muito bem no **front-end** e também no **back-end**, algumas das minhas skills são:
-
+**No front-end:**
 - HTML5
 - CSS3
 - JavaScript
-- Node
-  -  Express
-  -  Sequelize
-  - AdonisJS
-- TypeScript
-  -  NestJS  
-  -  TypeORM
-  
- **No front-end:**
 - Angular
 - VueJS
-- React e React-Native (aprendendo)
+- React e React-Native
 
-**Banco de dados:**
+**No back-end:**
+- Node.js
+  - Express
+  - Sequelize
+  - AdonisJS
+- TypeScript
+  - NestJS
+  - TypeORM
+
+**Bancos de dados:**
 - PostgreSQL
 - MySQL
 - MongoDB
 
-**E pra mim o aprendizado não para**, concluí o curso de __Full Stack Node e React__ na _Digital House_ a maior comunidade de programadores da América Latina, mas continuo buscando o conhecimento em novas tecnologias.
+Além disso, como um desenvolvedor consolidado, aprimorei minhas habilidades em:
 
+- Implementação de microservices
+- Clean code architecture
+- Princípios SOLID
+- Design patterns
+- Messageria com RabbitMQ
+- E muito mais
+
+Completei o curso de Full Stack Node e React na Digital House, a maior comunidade de programadores da América Latina. No entanto, meu compromisso com o aprendizado contínuo continua firme, e estou sempre buscando conhecimento em novas tecnologias e aprimorando minhas habilidades.
+
+Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e contribuições relacionadas a diversas áreas da programação. Fique à vontade para explorar meu trabalho e entrar em contato se tiver alguma pergunta ou oportunidade de colaboração.
+
+Vamos continuar evoluindo juntos! 🚀
 
 <div>
   <a href="https://pedrosantana-dev.github.io/">
