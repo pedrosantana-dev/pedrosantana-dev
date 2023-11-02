@@ -2,47 +2,22 @@
 
 Sou um desenvolvedor full stack com ampla experiência em diversas tecnologias. Ao longo do tempo, adquiri habilidades avançadas em várias áreas da programação. Algumas das minhas competências incluem:
 
-**No front-end:**
-- HTML5
-- CSS3
-- JavaScript
-- Angular
-- VueJS
-- React e React-Native
+**Front-end:**
+- HTML5, CSS3, JavaScript
+- Angular, VueJS, React
 
-**No back-end:**
-- Node.js
-  - Express
-  - Sequelize
-  - AdonisJS
-- TypeScript
-  - NestJS
-  - TypeORM
+**Back-end:**
+- Node.js (Express, Sequelize, AdonisJS)
+- TypeScript (NestJS, TypeORM)
 
 **Bancos de dados:**
-- PostgreSQL
-- MySQL
-- MongoDB
-
-Além disso, como um desenvolvedor consolidado, aprimorei minhas habilidades em:
-
-- Implementação de microservices
-- Clean code architecture
-- Princípios SOLID
-- Design patterns
-- Messageria com RabbitMQ
+- PostgreSQL, MySQL, MongoDB
 
 **Outras competências:**
-- Docker
-- CI/CD com Jenkins
-- Serviços da AWS, incluindo:
-  - Amazon EC2
-  - Amazon ECR (Elastic Container Registry)
-  - Amazon ECS (Elastic Container Service)
-  - Amazon S3
-  - AWS Lambda
-  - AWS Secrets Manager
-  - E muito mais
+- Docker, CI/CD com Jenkins
+- AWS (EC2, ECR, ECS, S3, Lambda, Secrets Manager)
+- Microservices, Clean code, SOLID, Design patterns
+- Messageria com RabbitMQ
 
 Completei o curso de Full Stack Node e React na Digital House, a maior comunidade de programadores da América Latina. No entanto, meu compromisso com o aprendizado contínuo continua firme, e estou sempre buscando conhecimento em novas tecnologias e aprimorando minhas habilidades.
 
