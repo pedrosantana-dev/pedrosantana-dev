@@ -25,13 +25,19 @@ Seja bem-vindo ao meu perfil do GitHub, onde você pode encontrar projetos e con
 
 Vamos continuar evoluindo juntos! 🚀
 
-<div>
-  <a href="https://pedrosantana-dev.github.io/">
-  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >
-  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >
-</div>
+[comment]: <> (<div>)
+[comment]: <> (  <a href="https://pedrosantana-dev.github.io/">)
+[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >)
+[comment]: <> (  <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >)
+[comment]: <> (</div>)
 
 <div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=css,html,javascript,typescript,vue,scss&show-other-skills=true" width="800" />
+</div>
+  
+##
+
+ <div>
   <a href="https://pedrosantana-dev.github.io/">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -52,12 +58,6 @@ Vamos continuar evoluindo juntos! 🚀
 
 ##
 
-<div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=css,html,javascript,typescript,vue,scss&show-other-skills=true" width="800" />
-</div>
-  
-##
- 
 <div>
   <a href="https://www.linkedin.com/in/pedrosantanadev/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
