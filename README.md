@@ -32,6 +32,10 @@ Vamos continuar evoluindo juntos! 🚀
 </div>
 
 ##
+
+<div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=cpp,css,html,javascript,typescript,vue,scss,other" width="800" />
+</div>
   
 <div>
   <a href="https://pedrosantana-dev.github.io/">
@@ -52,13 +56,6 @@ Vamos continuar evoluindo juntos! 🚀
   <img align="center" alt="Pedro-AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
   
-##
-
-
-<div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=c++,css,html,javascript,typescript,vue,scss,other" width="800" />
-</div>
-
 ##
  
 <div>
