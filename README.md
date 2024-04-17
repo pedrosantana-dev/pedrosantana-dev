@@ -30,6 +30,8 @@ Vamos continuar evoluindo juntos! 🚀
   <img height=170em src="https://github-readme-stats.vercel.app/api?username=pedrosantana-dev&count_private=true&include_all_commits=true&show_icons=true&theme=radical" >
   <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >
 </div>
+
+##
   
 <div>
   <a href="https://pedrosantana-dev.github.io/">
@@ -51,6 +53,13 @@ Vamos continuar evoluindo juntos! 🚀
 </div>
   
 ##
+
+
+<div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=c++,css,html,javascript,typescript,vue,scss,other" width="800" />
+</div>
+
+##
  
 <div>
   <a href="https://www.linkedin.com/in/pedrosantanadev/">
@@ -70,6 +79,3 @@ Vamos continuar evoluindo juntos! 🚀
   
 </div>
 
-<div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=c++,css,html,javascript,typescript,vue,scss,other" width="800" />
-</div>
