@@ -31,12 +31,6 @@ Vamos continuar evoluindo juntos! 🚀
   <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosantana-dev&layout=compact&theme=tokyonight&langs_count=10" >
 </div>
 
-##
-
-<div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=cpp,css,html,javascript,typescript,vue,scss,other" width="800" />
-</div>
-  
 <div>
   <a href="https://pedrosantana-dev.github.io/">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
@@ -54,6 +48,12 @@ Vamos continuar evoluindo juntos! 🚀
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Pedro-AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</div>
+
+##
+
+<div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=C++,css,html,javascript,typescript,vue,scss,other" width="800" />
 </div>
   
 ##
