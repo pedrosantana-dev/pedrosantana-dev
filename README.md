@@ -69,3 +69,7 @@ Vamos continuar evoluindo juntos! 🚀
   ![Snake animation](https://github.com/pedrosantana-dev/pedrosantana-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=c++,css,html,javascript,typescript,vue,scss,other" width="800" />
+</div>
