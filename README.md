@@ -53,7 +53,7 @@ Vamos continuar evoluindo juntos! 🚀
 ##
 
 <div>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=C++,css,html,javascript,typescript,vue,scss,other" width="800" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pedrosantana-dev&skills=css,html,javascript,typescript,vue,scss&show-other-skills=true" width="800" />
 </div>
   
 ##
